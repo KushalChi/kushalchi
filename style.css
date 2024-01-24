@@ -62,6 +62,9 @@ nav ul li a:hover::after{
     margin-top: 20%;
     font-size: 30px;
     background-image: url(images/Background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 .header-text h1{
     font-size: 60px;

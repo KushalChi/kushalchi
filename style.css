@@ -21,10 +21,6 @@ body{
 .container{
     padding: 10px 10%;
 }
-.bkg_img{
-    background-image: url(images/bkg.jpg);
-    border: 10px dotted rgb(255, 255, 255);
-}
 nav{
     display: flex;
     align-items: center;

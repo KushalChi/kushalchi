@@ -16,7 +16,7 @@ body{
     height: 100vh;
     background-image: url(images/IMG_1973.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: right;
     background-attachment: fixed;
 }
 .container{

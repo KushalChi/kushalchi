@@ -19,7 +19,7 @@ body{
     background-position: right;
     background-attachment: fixed;
     border-radius: 90%;
-    border: 25px solid white;
+    border: 12.5px dotted solid white;
 }
 .container{
     padding: 10px 10%;

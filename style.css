@@ -18,12 +18,6 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
-.back img{
-    width: 100%;
-    background-position: center;
-    background-attachment: fixed;
-    border-radius: 15px dotted rgb(255, 255, 255);
-}
 
 .container{
     padding: 10px 10%;
@@ -67,6 +61,7 @@ nav ul li a:hover::after{
 .header-text{
     margin-top: 20%;
     font-size: 30px;
+    background-image: url(images/Background.jpg);
 }
 .header-text h1{
     font-size: 60px;
